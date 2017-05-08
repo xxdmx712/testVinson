@@ -1,0 +1,14 @@
+{
+  "name": "mrkjx",
+  "version": "0.0.2",
+  "description": "项目描述",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mrkjx"
+  ],
+  "author": "vinso",
+  "license": "ISC"
+}
